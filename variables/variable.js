@@ -34,3 +34,10 @@ console.log(b);
 //3.CONST -> used for const value, cant reassign and rename variable
 const c = 20;
 console.log(c);
+
+//? variable naming conventions
+//*camel case
+let fullName="John doe";
+
+//* snake case
+let full_name="John doe";
